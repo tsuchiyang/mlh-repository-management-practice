@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @tsuchiyang
+/src/backend/database.py      @tsuchiyang
+/src/backend/routers/auth.py  @tsuchiyang
+
+# Frontend
+/src/static/                  @tsuchiyang

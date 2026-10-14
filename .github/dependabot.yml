@@ -1,0 +1,7 @@
+# AI-assisted configuration for the repository management exercise.
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
